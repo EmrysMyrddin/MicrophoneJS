@@ -11,7 +11,7 @@ class App extends Component {
 					<h2>Welcome to React</h2>
 				</div>
 				<p className="App-intro">
-					Here will stand son a live demo of audio recording !
+					Here will stand son a live demo of audio recording ! And this will be updated by a git hook !
 				</p>
 			</div>
 		);
